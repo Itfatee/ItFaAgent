@@ -1,5 +1,6 @@
-from mokioclaw.cli.app import app
+def main():
+    print("Hello from mokioagent!")
 
 
 if __name__ == "__main__":
-    app()
+    main()
